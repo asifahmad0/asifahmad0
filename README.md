@@ -1,4 +1,4 @@
-[logo](https://github.com/asifahmad0/asif-ahmad/blob/main/logo.jpg)
+![logo](https://github.com/asifahmad0/asif-ahmad/blob/main/logo.jpg)
 <h1 align="center">Hi 👋, I'm ASIF AHMAD</h1>
 <h3 align="center">A passionate about programming from India</h3>
 
