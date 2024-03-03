@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ASIF AHMAD</h1>
 <h3 align="center">A passionate about programming from India</h3>
 
-<img align="right" lt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgeometric-animations-171119-gif-processing-creative-coding-art-everyday-geometry-httpifttt2zwg0ub--71072500353753777%2F&psig=AOvVaw1uFKGy1cCLv8R7cJ9ZL5vB&ust=1709571787061000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjS66rJ2IQDFQAAAAAdAAAAABAh">
+<img align="right" lt="coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifahmad0&label=Profile%20views&color=0e75b6&style=flat" alt="asifahmad0" /> </p>
 
