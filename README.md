@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ASIF AHMAD</h1>
 <h3 align="center">A passionate about programming from India</h3>
 
-<img align="right" lt="coding" width="200" src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align="right" lt="coding" width="400" src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifahmad0&label=Profile%20views&color=0e75b6&style=flat" alt="asifahmad0" /> </p>
 
